@@ -162,7 +162,7 @@ In VS Code or Codespaces, you can use the Git interface inside the development e
 
 To then make sure your portfolio is published:
 
-<img src="assets/images/settings.png" width="500" />
+<img src="assets/images/settings.png" width="600" />
 
 1. Go to your repository's Settings
 2. Choose the "Pages" tab and choose Branch `main`
