@@ -2,7 +2,7 @@
 layout: project
 title: Space Domain Awareness Simulator
 description: Cornell Space Systems Design Studio
-technologies: [Solidworks, Python, MatLab, Simulink]
+Core Skills: [Solidworks, Python, MatLab, Simulink]
 image: /assets/images/sdas.png
 ---
 
