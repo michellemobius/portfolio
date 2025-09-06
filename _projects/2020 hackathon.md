@@ -3,7 +3,7 @@ layout: project
 title: Postcards from space!  
 description: MIT Blueprint Hackathon
 technologies: [Python, Java, Javascript, CSS, HTML]
-image: /assets/images/baffle.png
+image: /assets/images/hackathon.png
 ---
 
 
