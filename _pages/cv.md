@@ -49,7 +49,7 @@ Mechanical Engineering student interested in design and manufacture for aerospac
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   Graduation: May, 2027
 
-  Related Coursework: Dynamics, Statics, Thermodynamics, System Dynamics, Mechanics of Materials, Fluids, Mechanical Synthesis, Electricity and Magnetism, Python, MATLAB, Linear Algebra, Differential Equations, Physics Mechanics and Heat, Experimental Physics, Lasers and Photonics, Chemistry, Engineering Leadership
+  *Related Coursework*: Dynamics, Statics, Thermodynamics, System Dynamics, Mechanics of Materials, Fluids, Mechanical Synthesis, Electricity and Magnetism, Python, MATLAB, Linear Algebra, Differential Equations, Physics Mechanics and Heat, Experimental Physics, Lasers and Photonics, Chemistry, Engineering Leadership
 
 ---
 
@@ -88,7 +88,7 @@ Mechanical Engineering student interested in design and manufacture for aerospac
   - Intern with CRESST experiment – a low mass dark matter search focused on direct dark matter detection using cryogenic detectors.
   - Designed and tested tungsten-based transition edge sensors (TES) using bonding and sputtering machines; presented findings in a research poster.
 
-
+---
 
 #### Technical Projects
 - **MIT Lincoln Labs Beaver Works Engineering**:

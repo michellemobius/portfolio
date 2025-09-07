@@ -196,17 +196,16 @@ footer {
   transform: translateX(-4px);
 }
 
-/* --- CLICKABLE LINK WITHOUT UNDERLINE AND BLUE --- */
-
+/* --- CLICKABLE LINK WITHOUT UNDERLINE, BLUE, NORMAL WEIGHT --- */
 .no-underline-link {
-  text-decoration: none;       // removes underline
-  color: #1a73e8;              // blue color
-  font-size: 1rem;             // match normal text
-  line-height: 1.6;            // match body line-height
-  font-weight: normal;         // remove bold
+  text-decoration: none;        // removes underline
+  color: #1a73e8;               // blue color
+  font-size: 1rem;              // match normal text
+  line-height: 1.6;             // match body line-height
+  font-weight: normal !important; // force normal weight
   transition: color 0.3s;
 
   &:hover {
-    color: darken(#1a73e8, 10%); // subtle hover effect
+    color: darken(#1a73e8, 10%);
   }
 }
