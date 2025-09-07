@@ -4,11 +4,12 @@ title: <Michelle Mobius> - Experience
 permalink: /experience/
 ---
 
-## <span style="display:inline-flex; align-items:center;">Experience
+<h2 style="display:inline-flex; align-items:center; font-family:'Merriweather', serif; font-weight:700;">
+  Experience
   <a href="https://www.linkedin.com/in/michelle-mobius-b784122a1/" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;">
+    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
-</span>
+</h2>
 
 
 
