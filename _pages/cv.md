@@ -49,10 +49,10 @@ Mechanical Engineering student interested in design and manufacture for aerospac
 - **[Max Planck Institute for Extraterrestrial Physics ]**:  
   *[MICADO Mechanical Engineering Intern]*  
   - Worked with the MICADO team to design a camera and cryostat shutter for the 40 m Extremely Large Telescope in Chile.
-  - • Designed the baffle for MICADO using NX and Siemens optical model, focusing on calculating vane apertures and ensuring coefficient of thermal expansion consistency with other camera components in the cryogenic environment. Collaborated with optical and manufacturing engineers for design and implementation.
+  - Designed the baffle for MICADO using NX and Siemens optical model, focusing on calculating vane apertures and ensuring coefficient of thermal expansion consistency with other camera components in the cryogenic environment. Collaborated with optical and manufacturing engineers for design and implementation.
 
 - **[AVS US]**: 
-*[MICADO Mechanical Engineering Intern]* 
+  *[MICADO Mechanical Engineering Intern]* 
   - Designed and tested nozzle blocks and a propulsion system testing structure for two ROADS 3U CubeSats, which aim to autonomously reunite in low Earth orbit.
 
 - **[Max Planck Institute for Physics ]**:  
