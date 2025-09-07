@@ -6,7 +6,9 @@ permalink: /experience/
 
 <h2 style="display:inline-flex; align-items:center; font-family:'Merriweather', serif; font-weight:700;">
   <a href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank" 
-     style="text-decoration:none; color:inherit;">
+     style="text-decoration:none; color:inherit; transition: opacity 0.2s ease;"
+     onmouseover="this.style.opacity='0.7';"
+     onmouseout="this.style.opacity='1';">
     Experience
   </a>
   <!-- LinkedIn -->
@@ -34,6 +36,7 @@ permalink: /experience/
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
 </h2>
+
 
 
 
