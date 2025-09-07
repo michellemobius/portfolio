@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <Michelle Mobius> - Curriculum Vitae
+title: <Michelle Mobius> - Experience
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Experience
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mrm386@cornell.edu](mailto:mrm386@cornell.edu) | | | **Phone:** +1 857-206-9455
