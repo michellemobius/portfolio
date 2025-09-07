@@ -3,10 +3,9 @@ layout: default
 title: <Michelle Mobius> - Experience
 permalink: /experience/
 ---
-## Experience
-<a href="https://www.linkedin.com/in/michelle-mobius-b784122a1/" target="_blank">
-  <img src="/assets/linkedin-logo.png" alt="LinkedIn" style="width:24px; height:24px; vertical-align:middle; margin-left:8px;">
-</a>
+
+## Experience <a href="https://www.linkedin.com/in/michelle-mobius-b784122a1/" target="_blank"><img src="/assets/images/linkedin.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-left:8px;"/></a>
+
 
 **Email:** [michellemobius@gmail.com](mailto:michellemobius@gmail.com) | [mrm386@cornell.edu](mailto:mrm386@cornell.edu)  
 **Phone:** +1 (857) 206-9455 
@@ -93,5 +92,5 @@ Mechanical Engineering student interested in design and manufacture for aerospac
 Available upon request.
 
 
-[Download my Resume]({{ "/assets/CV.pdf" | relative_url }})
+<p><a href="{{ "/assets/CV.pdf" | relative_url }}">Download my Resume</a></p>
 ---
