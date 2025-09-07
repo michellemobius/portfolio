@@ -3,11 +3,10 @@ layout: default
 title: <Michelle Mobius> - Experience
 permalink: /experience/
 ---
-## [Experience](https://www.linkedin.com/in/michelle-mobius-b784122a1/)
+## <a href="/assets/CV.pdf" style="text-decoration:none; color:inherit;">Experience</a>
 
 **Email:** [michellemobius@gmail.com](mailto:michellemobius@gmail.com) | [mrm386@cornell.edu](mailto:mrm386@cornell.edu)  
 **Phone:** +1 (857) 206-9455 
-[Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 ---
@@ -64,10 +63,10 @@ Mechanical Engineering student interested in design and manufacture for aerospac
 
 
 #### Technical Projects
-**MIT Lincoln Labs Beaver Works Engineering**:
- - Built and programmed a model CubeSat that detected climate change via penguin guano; led development of Python code for Bluetooth communication while collaborating on ADCS, image processing, and subsystem integration using Git.
+- **MIT Lincoln Labs Beaver Works Engineering**:
+  - Built and programmed a model CubeSat that detected climate change via penguin guano; led development of Python code for Bluetooth communication while collaborating on ADCS, image processing, and subsystem integration using Git.
 
-**Cornell MAE 2250 Open Design Project**:
+- **Cornell MAE 2250 Open Design Project**:
   - Designed, built, and tested a suction-based organizer with a French door mechanism and magnetic latching. Led a team of 6 students through ideation, design, and prototyping. Won Best Presentation award.
 
 #### Achievements & Certifications
