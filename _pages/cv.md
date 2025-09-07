@@ -6,10 +6,21 @@ permalink: /experience/
 
 <h2 style="display:inline-flex; align-items:center; font-family:'Merriweather', serif; font-weight:700;">
   Experience
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/michelle-mobius-b784122a1/" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
+    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
+  </a>
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=michellemobius@gmail.com" target="_blank" style="margin-left:8px;">
+    <img src="https://michellemobius.github.io/portfolio/assets/images/gmail.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
 </h2>
+
+
 
 
 
