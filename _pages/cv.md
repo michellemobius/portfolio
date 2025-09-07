@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <Michelle Mobius> - Experience
-permalink: /cv/
+permalink: /experience/
 ---
 ## Experience
 
