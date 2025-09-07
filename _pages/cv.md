@@ -8,7 +8,7 @@ permalink: /experience/
 [Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [mrm386@cornell.edu](mailto:mrm386@cornell.edu) | | | **Phone:** +1 857-206-9455
+**Email:** [michellemobius@gmail.com](mailto:michellemobius@gmail.com), [mrm386@cornell.edu](mailto:mrm386@cornell.edu) | | | **Phone:** +1 857-206-9455
 
 ---
 
@@ -53,7 +53,7 @@ Mechanical Engineering student interested in design and manufacture for aerospac
 
 - **[AVS US]**: 
 *[MICADO Mechanical Engineering Intern]* 
-- Designed and tested nozzle blocks and a propulsion system testing structure for two ROADS 3U CubeSats, which aim to autonomously reunite in low Earth orbit.
+  - Designed and tested nozzle blocks and a propulsion system testing structure for two ROADS 3U CubeSats, which aim to autonomously reunite in low Earth orbit.
 
 - **[Max Planck Institute for Physics ]**:  
   *[Cryogenic Rare Event Search with Superconducting Thermometers (CRESST) Intern]*  
