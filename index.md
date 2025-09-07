@@ -14,7 +14,7 @@ title: <Michelle Mobius>
 </h2>
 
 
-![Profile Picture]({{ "assets/images/profile.png" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is Michelle Mobius and I'm a junior MechE at Cornell with experience in aerospace design and manufacturing.  
