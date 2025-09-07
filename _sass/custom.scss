@@ -196,14 +196,14 @@ footer {
   transform: translateX(-4px);
 }
 
-/* --- CLICKABLE LINK WITHOUT UNDERLINE --- */
+/* --- CLICKABLE LINK WITHOUT UNDERLINE AND BLUE --- */
 .no-underline-link {
-  text-decoration: none;   // removes underline
-  color: $primary-color;   // uses theme color
-  font-weight: 700;        // optional bold
+  text-decoration: none;       // removes underline
+  color: #1a73e8;              // blue color
+  font-weight: 700;             // optional bold
   transition: color 0.3s;
 
   &:hover {
-    color: darken($primary-color, 10%); // subtle hover effect
+    color: darken(#1a73e8, 10%); // slightly darker blue on hover
   }
 }

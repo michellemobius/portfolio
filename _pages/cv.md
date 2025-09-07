@@ -18,13 +18,15 @@ permalink: /experience/
          onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
-  <!-- Phone -->
-  <a href="tel:+18572069455" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/phone.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
-         onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
-  </a>
-</h2>
+ <!-- GitHub -->
+<a href="https://github.com/michellemobius" target="_blank" style="margin-left:8px;">
+  <img src="https://michellemobius.github.io/portfolio/assets/images/github.png" 
+       height="20" 
+       style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+       onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
+</a>
+
 
 
 ---
