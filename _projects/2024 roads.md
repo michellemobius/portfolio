@@ -2,7 +2,7 @@
 layout: project
 title: ROADS CubeSat
 description: AVS US
-Core Skills: [SolidWorks, Autodesk Inventor, 3D Printing]
+technologies: [SolidWorks, Autodesk Inventor, 3D Printing]
 image: /assets/images/roads.png
 ---
 
