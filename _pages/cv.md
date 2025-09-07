@@ -5,22 +5,31 @@ permalink: /experience/
 ---
 
 <h2 style="display:inline-flex; align-items:center; font-family:'Merriweather', serif; font-weight:700;">
-  Experience
+  <a href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank" 
+     style="text-decoration:none; color:inherit;">
+    Experience
+  </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/michelle-mobius-b784122a1/" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" 
+         height="20" width="20"
+         style="object-fit: contain; transition: transform 0.2s ease, opacity 0.2s ease;" 
          onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
   <!-- Gmail -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=michellemobius@gmail.com" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/gmail.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+    <img src="https://michellemobius.github.io/portfolio/assets/images/gmail.png" 
+         height="20" width="20"
+         style="object-fit: contain; transition: transform 0.2s ease, opacity 0.2s ease;" 
          onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
   <!-- GitHub -->
   <a href="https://github.com/michellemobius" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/github.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+    <img src="https://michellemobius.github.io/portfolio/assets/images/github.png" 
+         height="20" width="20"
+         style="object-fit: contain; transition: transform 0.2s ease, opacity 0.2s ease;" 
          onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
