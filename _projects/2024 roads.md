@@ -7,6 +7,6 @@ image: /assets/images/roads.png
 order: 4
 ---
 
-I worked on the Rendezvous & Operations for Autonomous Docking and Servicing (ROADS) CubeSat while interning with AVS US. ROADS is a system of two 3U CubeSats that aim to autonomously reunite in Low Earth Orbit. I designed, manufactured, and tested a structure for the propulsion system nozzle blocks in a TVAC using Autodesk Inventor and SolidWorks. The stand is composed of two parts. The first part holds the propulsion system and attaches it to the ATI F/T Gamma Sensor. The second part attaches the Gamma Sensor to the stand and the stand to the TVAC. The Gamma sensor is used to record force and torque measurements for the nozzle blocks. I 3D printed the test stand structure using 1.75 mm PLA.
+I worked on the Rendezvous & Operations for Autonomous Docking and Servicing (ROADS) CubeSat while interning with <a href="https://www.adc9001.com/home.html" class="no-underline-link">AVS US</a>. ROADS is a system of two 3U CubeSats that aim to autonomously reunite in Low Earth Orbit. I designed, manufactured, and tested a structure for the propulsion system nozzle blocks in a TVAC using Autodesk Inventor and SolidWorks. The stand is composed of two parts. The first part holds the propulsion system and attaches it to the ATI F/T Gamma Sensor. The second part attaches the Gamma Sensor to the stand and the stand to the TVAC. The Gamma sensor is used to record force and torque measurements for the nozzle blocks. I 3D printed the test stand structure using 1.75 mm PLA.
 
 
