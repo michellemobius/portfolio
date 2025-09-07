@@ -49,7 +49,7 @@ Mechanical Engineering student interested in design and manufacture for aerospac
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   Graduation: May, 2027
 
-  *Related Coursework*: Dynamics, Statics, Thermodynamics, System Dynamics, Mechanics of Materials, Fluids, Mechanical Synthesis, Electricity and Magnetism, Python, MATLAB, Linear Algebra, Differential Equations, Physics Mechanics and Heat, Experimental Physics, Lasers and Photonics, Chemistry, Engineering Leadership
+  *Related Coursework:* Dynamics, Statics, Thermodynamics, System Dynamics, Mechanics of Materials, Fluids, Mechanical Synthesis, Electricity and Magnetism, Python, MATLAB, Linear Algebra, Differential Equations, Physics Mechanics and Heat, Experimental Physics, Lasers and Photonics, Chemistry, Engineering Leadership
 
 ---
 
