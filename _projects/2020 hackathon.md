@@ -13,7 +13,7 @@ I led a team of 4 to win 2nd place in MIT’s Blueprint Hackathon. We coded a we
 
 Check out our website and send a postcard 
 <a href="https://www.michellemobius.org/hackathon/" 
-   style="text-decoration: none; color: #1a73e8; font-size: 1rem; line-height: 1.6; font-weight: 700;">
+   style="text-decoration: none; color: #1a73e8; font-size: 1rem; line-height: 1.6;">
    here
 </a>!
 

@@ -37,10 +37,6 @@ permalink: /experience/
   </a>
 </h2>
 
-
-
-
-
 ---
 
 #### Objective
@@ -121,6 +117,4 @@ Mechanical Engineering student interested in design and manufacture for aerospac
 #### References
 Available upon request.
 
-
-<p><a href="{{ "/assets/CV.pdf" | relative_url }}">Download my Resume</a></p>
 ---

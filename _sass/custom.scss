@@ -197,13 +197,16 @@ footer {
 }
 
 /* --- CLICKABLE LINK WITHOUT UNDERLINE AND BLUE --- */
+
 .no-underline-link {
   text-decoration: none;       // removes underline
   color: #1a73e8;              // blue color
-  font-weight: 700;             // optional bold
+  font-size: 1rem;             // match normal text
+  line-height: 1.6;            // match body line-height
+  font-weight: normal;         // remove bold
   transition: color 0.3s;
 
   &:hover {
-    color: darken(#1a73e8, 10%); // slightly darker blue on hover
+    color: darken(#1a73e8, 10%); // subtle hover effect
   }
 }
