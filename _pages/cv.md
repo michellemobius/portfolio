@@ -8,24 +8,23 @@ permalink: /experience/
   Experience
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/michelle-mobius-b784122a1/" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+    <img src="https://michellemobius.github.io/portfolio/assets/images/linkedin.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
          onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
   <!-- Gmail -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=michellemobius@gmail.com" target="_blank" style="margin-left:8px;">
-    <img src="https://michellemobius.github.io/portfolio/assets/images/gmail.png" width="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+    <img src="https://michellemobius.github.io/portfolio/assets/images/gmail.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
+         onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
+  </a>
+  <!-- Phone -->
+  <a href="tel:+18572069455" style="margin-left:8px;">
+    <img src="https://michellemobius.github.io/portfolio/assets/images/phone.png" height="20" style="transition: transform 0.2s ease, opacity 0.2s ease;" 
          onmouseover="this.style.transform='scale(1.2)'; this.style.opacity='0.8';" 
          onmouseout="this.style.transform='scale(1)'; this.style.opacity='1';">
   </a>
 </h2>
-
-
-
-
-
-**Email:** [michellemobius@gmail.com](mailto:michellemobius@gmail.com) | [mrm386@cornell.edu](mailto:mrm386@cornell.edu)  
-**Phone:** +1 (857) 206-9455 
 
 
 ---
