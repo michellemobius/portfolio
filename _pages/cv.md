@@ -5,13 +5,8 @@ permalink: /experience/
 ---
 ## Experience
 
-[Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
-
-
 **Email:** [michellemobius@gmail.com](mailto:michellemobius@gmail.com) | [mrm386@cornell.edu](mailto:mrm386@cornell.edu)  
-**Phone:** +1 (857) 206-9455
-📧 [michellemobius@gmail.com](mailto:michellemobius@gmail.com) | [mrm386@cornell.edu](mailto:mrm386@cornell.edu) | 📱 +1 (857) 206-9455
-
+**Phone:** +1 (857) 206-9455 **[LinkedIn](https://www.linkedin.com/in/michelle-mobius-b784122a1/)**
 
 
 ---
@@ -93,5 +88,8 @@ Mechanical Engineering student interested in design and manufacture for aerospac
 
 #### References
 Available upon request.
+
+[Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+
 
 ---
