@@ -3,7 +3,7 @@ layout: project
 title: MAE 3270 3/8" Drive Instrumented Torque Wrench
 description: Cornell MAE 3270 Modified Torque Wrench
 technologies: [MATLAB, Fusion 360, Ansys]
-image: /assets/images/torque wrench.png
+image: /assets/images/torque.png
 order: 7
 ---
 
