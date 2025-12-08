@@ -2,8 +2,8 @@
 layout: project
 title: Modified Torque Wrench
 description: Cornell MAE 3270 Modified Torque Wrench
-technologies: [MATLAB, Fusion 360, Ansys, Git]
-image: /assets/images/cubesat.jpg
+technologies: [MATLAB, Fusion 360, Ansys]
+image: /assets/images/torque wrench.png
 order: 7
 ---
 
@@ -13,8 +13,8 @@ I designed a non-ratcheting, 3/8-inch drive instrumented torque wrench rated for
 
 
 <figure style="text-align:center; margin: 1em 0;">
-  <figcaption style="font-size:0.9em; margin-bottom: 0.5em;">1U CubeSat mechanical layout and image processing telemetry:</figcaption>
-  <img src="{{ '/assets/images/guano.png' | relative_url }}" alt="CubeSat model" style="width:50%; display:inline-block;">
+  <figcaption style="font-size:0.9em; margin-bottom: 0.5em;">MAE 3270 Torque Wrench Design:</figcaption>
+  <img src="{{ '/assets/images/torque wrench.png' | relative_url }}" alt="CubeSat model" style="width:50%; display:inline-block;">
 </figure>
 
 
