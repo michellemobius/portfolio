@@ -4,7 +4,7 @@ title: Dark Matter Detector
 description: Max Planck Institute for Physics
 technologies: [Soldering, Bonding machine, Sputtering machine, cryostat]
 image: /assets/images/tes.png
-order: 6
+order: 7
 ---
 
 
