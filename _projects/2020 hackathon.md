@@ -4,7 +4,7 @@ title: MIT Hackathon
 description: MIT Blueprint Hackathon
 technologies: [Python, Java, Javascript, CSS, HTML]
 image: /assets/images/hackathon.png
-order: 8
+order: 9
 ---
 ---
 

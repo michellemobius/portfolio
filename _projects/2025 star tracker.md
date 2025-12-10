@@ -4,7 +4,7 @@ title: Space Domain Awareness Simulator
 description: Cornell Space Systems Design Studio
 technologies: [Solidworks, Python, MatLab, Simulink]
 image: /assets/images/sdas.png
-order: 4
+order: 5
 ---
 ---
 The Space Domain Awareness Simulator (SDAS) is a system developed to simulate interactions between two spacecrafts. One spacecraft is mounted on a spherical air bearing, allowing it to move freely with three degrees of rotational freedom and enabling realistic testing of spacecraft dynamics. The second spacecraft simulates relative orbital motion by maneuvering around the first, replicating conditions encountered in space. This research is a collaborative project in the <a href="https://www.spacecraftresearch.com/" class="no-underline-link"> Space Systems Design Studio </a>. I lead (a team of 13) on the development of the Small Scale Space Domain Awareness Simulator and am a member of the Attitude Control System (ACS) and Mechanical subteams, with a focus on designing and testing a star tracker for attitude determination.
