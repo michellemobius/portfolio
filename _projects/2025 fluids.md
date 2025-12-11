@@ -1,8 +1,8 @@
 ---
 layout: project
-title: MAE 3260 Aircraft Pitch Control Linearization
-description: Cornell MAE 3260 case study
-technologies: [MATLAB]
+title: MAE 3230 Chainsaw Dissection
+description: Cornell MAE 3230 Fluid Mechanical Dissection
+technologies: [Git]
 image: assets/images/chainsaw.png
 order: 1
 ---
