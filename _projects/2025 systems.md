@@ -4,7 +4,7 @@ title: MAE 3260 Aircraft Pitch Control Linearization
 description: Cornell MAE 3260 case study
 technologies: [MATLAB]
 image: assets/images/airbus.png
-order: 3
+order: 4
 ---
 
 <iframe 
