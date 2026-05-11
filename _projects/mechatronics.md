@@ -1,8 +1,8 @@
 ---
 layout: project
 title:  MAE 3780 - Mechatronics
-description: Mechantroincs
-technologies: [Git]
+description: Mechantronics
+technologies: [Fusion 360, C++, Arduino, Git]
 image: /assets/images/cubie.png
 order: 1
 ---
